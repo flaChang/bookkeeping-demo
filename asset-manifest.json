@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookkeeping-demo/static/css/main.872223d7.css",
+    "main.js": "/bookkeeping-demo/static/js/main.5150938e.js",
+    "index.html": "/bookkeeping-demo/index.html",
+    "main.872223d7.css.map": "/bookkeeping-demo/static/css/main.872223d7.css.map",
+    "main.5150938e.js.map": "/bookkeeping-demo/static/js/main.5150938e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872223d7.css",
+    "static/js/main.5150938e.js"
+  ]
+}
